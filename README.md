@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi I am Alex.
+I am testing out github for my CISC3130 data structures class.
+This is not just another repository.
